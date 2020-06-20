@@ -4,6 +4,8 @@
 >
 > Author: Kdocke
 >
+> Node.js-Version: 12.18.1
+>
 > Reason: 因为需要使用 npm 安装 Vue CLI，而 npm 是集成在 Node.js 中的，所以需要安装 Node.js
 
 ## 1、下载
