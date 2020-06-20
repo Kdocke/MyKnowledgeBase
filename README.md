@@ -14,3 +14,4 @@ Tutorial：教程
 Tip: 记录
 
 * [博客框架](https://github.com/Kdocke/MyKnowledgeBase/blob/master/Tip/博客框架.md)
+* [解决 GitHub 服务器的 IP 问题](https://github.com/Kdocke/MyKnowledgeBase/blob/master/Tip/%E8%A7%A3%E5%86%B3GitHub%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84IP%E5%9C%B0%E5%9D%80%E9%97%AE%E9%A2%98.md)
