@@ -10,7 +10,7 @@
 
 **官方网站：** [WebStorm-2020.1.3](https://www.jetbrains.com/webstorm/)
 
-**注册插件：**链接：https://pan.baidu.com/s/1p2wInphLxzxM8DoHfA1OMA 提取码：zhlz
+**注册插件：** 链接：https://pan.baidu.com/s/1p2wInphLxzxM8DoHfA1OMA 提取码：zhlz
 
 ## 二、安装
 
