@@ -11,6 +11,7 @@
 * [Node.js 安装教程](https://github.com/Kdocke/MyKnowledgeBase/blob/master/Tutorial/Node.js%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
 * [使用 Hexo 搭建个人博客](https://github.com/Kdocke/MyKnowledgeBase/blob/master/Tutorial/%E4%BD%BF%E7%94%A8%20Hexo%20%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
 * [Snippet 博客主题配置](https://github.com/Kdocke/MyKnowledgeBase/blob/master/Tutorial/Snippet%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE.md)
+* [WebStorm 2020 安装教程](https://github.com/Kdocke/MyKnowledgeBase/blob/master/Tutorial/WebStorm2020%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
 
 **Tip:** 记录
 
